@@ -37,3 +37,32 @@ button:hover {
   background-color: #e6f7ff;
   border-radius: 10px;
 }
+
+/* Otros estilos arriba... Esta es la seccion que se corresponde con las primeras modificaciones en MATERIAS */
+
+.materia {
+  display: none;
+  margin: 15px;
+  padding: 15px;
+  background-color: #f0f8ff;
+  border: 1px solid #b0d4f1;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px 15px;
+  background-color: #b0d4f1;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #003366;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #90c3eb;
+}
+/* ACÁ TERMINA LA MODIFICACIÓN */
