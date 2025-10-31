@@ -50,19 +50,4 @@ button:hover {
   box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
 
-button {
-  margin: 10px 5px;
-  padding: 10px 15px;
-  background-color: #b0d4f1;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-weight: bold;
-  color: #003366;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #90c3eb;
-}
 /* ACÁ TERMINA LA MODIFICACIÓN */
